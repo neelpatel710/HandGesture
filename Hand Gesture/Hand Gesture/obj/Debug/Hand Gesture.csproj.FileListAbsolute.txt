@@ -1,0 +1,12 @@
+D:\Downloads\Hand Gesture\Final\Hand Gesture\Hand Gesture\bin\Debug\Hand Gesture.exe.config
+D:\Downloads\Hand Gesture\Final\Hand Gesture\Hand Gesture\obj\Debug\Hand Gesture.csprojResolveAssemblyReference.cache
+D:\Downloads\Hand Gesture\Final\Hand Gesture\Hand Gesture\obj\Debug\Hand_Gesture.Form1.resources
+D:\Downloads\Hand Gesture\Final\Hand Gesture\Hand Gesture\obj\Debug\Hand_Gesture.Properties.Resources.resources
+D:\Downloads\Hand Gesture\Final\Hand Gesture\Hand Gesture\obj\Debug\Hand Gesture.csproj.GenerateResource.Cache
+D:\Downloads\Hand Gesture\Final\Hand Gesture\Hand Gesture\bin\Debug\Hand Gesture.exe
+D:\Downloads\Hand Gesture\Final\Hand Gesture\Hand Gesture\bin\Debug\Hand Gesture.pdb
+D:\Downloads\Hand Gesture\Final\Hand Gesture\Hand Gesture\obj\Debug\Hand Gesture.exe
+D:\Downloads\Hand Gesture\Final\Hand Gesture\Hand Gesture\obj\Debug\Hand Gesture.pdb
+D:\Projects\DE_Hand_Gesture\Final\Hand Gesture\Hand Gesture\bin\Debug\Hand Gesture.exe.config
+D:\Projects\DE_Hand_Gesture\Final\Hand Gesture\Hand Gesture\obj\Debug\Hand Gesture.exe
+D:\Projects\DE_Hand_Gesture\Final\Hand Gesture\Hand Gesture\obj\Debug\Hand Gesture.pdb
